@@ -16,6 +16,21 @@
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="@string/contact"/>
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="@string/contact2"/>
+
+        <!-- Default
+        <TextView
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:textSize="25dp"
             android:textStyle="bold"
             android:text="Contact Menu"/>
@@ -24,7 +39,8 @@
             android:layout_gravity="center"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Navigation Drawer"/>
+            android:text="Navigation Drawer"/>-->
+
 
     </LinearLayout>
 

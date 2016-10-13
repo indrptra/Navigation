@@ -6,5 +6,9 @@
 
     <string name="action_settings">Settings</string>
     <string name="admin">Admin</string>
+    <string name="profil1">Indra Putra</string>
+    <string name="profil2">Android Developer</string>
+    <string name="contact">Jl.Caringin</string>
+    <string name="contact2">Bandung, Jawa Barat</string>
     <string name="title_activity_home">Home</string>
 </resources>
